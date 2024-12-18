@@ -1,11 +1,25 @@
-# React Static List of Posts (JS)
+# tatic List of Posts
 
-- prepared `posts` by adding a `user` and `comments` to each `post` (each comment has a `postId`);
-- splitted the `App` into components based on given CSS blocks;
-- styles from `App.scss` should be moved to separate files, as well. E.g.: `PostList.scss`;
-- `List` components should take an array of corresponding objects and render one `Info` component per object;
-- `Info` components should take one object and render its data.
+### Description
 
-## Demo Links
+- Added a Static List of Posts
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react_static-list-of-posts-js/)
+### Stack
+
+- HTML (BEM)
+- CSS (Bulma)
+- JS
+- React
+- ReactDOM
+
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Babel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/static-list-of-posts/)
