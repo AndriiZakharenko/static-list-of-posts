@@ -1,4 +1,4 @@
-# tatic List of Posts
+# Static List of Posts
 
 ### Description
 
